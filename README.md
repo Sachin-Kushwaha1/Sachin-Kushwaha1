@@ -12,6 +12,6 @@ I'm currently pursuing Masters in Computer Applications from NIT, Trichy.
 ## Language and Tools:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="25" height="25">](https://cplusplus.com/)
 [<img src="https://docs.python.org/3/_static/py.svg" width="25" height="25">](https://www.python.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width="25" height="25">](https://www.w3schools.com/html/default.asp)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width="25" height="25">](https://www.w3schools.com/css/default.asp)
-[<img src="https://commons.wikimedia.org/wiki/File:JavaScript-logo.png" width="25" height="25">](https://www.w3schools.com/js/default.asp)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width="25" height="30">](https://www.w3schools.com/html/default.asp)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width="25" height="30">](https://www.w3schools.com/css/default.asp)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25" height="25">](https://www.w3schools.com/js/default.asp)
