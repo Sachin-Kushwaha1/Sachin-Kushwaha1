@@ -6,4 +6,5 @@ I'm currently pursuing Masters in Computer Applications from NIT, Trichy.
 - ⚡ Fun fact: Being LAzy let you be more Creative.
 
 - ## Connect With Me
-- [(https://github.com/Sachin-Kushwaha1/Sachin-Kushwaha1/assets/110785295/10c5f9bd-da83-4210-a2ea-ea1ecc6a0729)](https://leetcode.com/Sachin_Kushwaha/)
+- [![LeetCode_logo_black](https://github.com/Sachin-Kushwaha1/Sachin-Kushwaha1/assets/110785295/ea7c48f8-ba9c-4c59-9268-c21a5d02ac49)](https://leetcode.com/Sachin_Kushwaha/)
+
