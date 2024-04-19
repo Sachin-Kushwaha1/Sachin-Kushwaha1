@@ -11,5 +11,5 @@ I'm currently pursuing Masters in Computer Applications from NIT, Trichy.
 
 ## Language and Tools:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" width="60" height="60">](https://cplusplus.com/)
-[<img src="https://www.python.org/static/img/python-logo@2x.png" width="100" height="60">](https://www.python.org/)
+[<img src="https://www.python.org/static/img/python-logo@2x.png" width="130" height="60">](https://www.python.org/)
 
