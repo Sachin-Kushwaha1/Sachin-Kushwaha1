@@ -37,4 +37,4 @@ I'm currently pursuing Masters in Computer Applications from **NIT, Trichy**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sachin-Kushwaha1&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Sachin-Kushwaha1's GitHub Stats" /> 
 
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-Kushwaha1&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-Kushwaha1&bg_color=000000&color=00bbfa&line=2b2fa1&point=07c5af&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
