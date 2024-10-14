@@ -18,7 +18,6 @@ I'm currently pursuing Masters in Computer Applications from **NIT, Trichy**.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25" height="25">](https://www.w3schools.com/js/default.asp)
 
 ## My GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Kushwaha1&theme=tokyonight&hide_border=true" alt="Sachin-Kushwaha1's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=Sachin-Kushwaha1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Sachin-Kushwaha1's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Kushwaha1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Sachin-Kushwaha1's GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Sachin-Kushwaha1&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Sachin-Kushwaha1's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Kushwaha1&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Sachin-Kushwaha1's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Kushwaha1&theme=highcontrast&hide_border=true" alt="Sachin-Kushwaha1's GitHub Stats" />
