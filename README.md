@@ -5,7 +5,7 @@
 
 I'm currently pursuing Masters in Computer Applications from **NIT, Trichy**.
 
-### Can Connect on
+## Can Connect on
 <p align="left">
 <a href="https://linkedin.com/in/sachin-kushwaha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-kushwaha1" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sachin_kushwah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sachin_kushwah" height="30" width="40" /></a>
@@ -15,7 +15,7 @@ I'm currently pursuing Masters in Computer Applications from **NIT, Trichy**.
 </p>
 
 
-### Language and Tools
+## Language and Tools
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="25" height="25">](https://cplusplus.com/)
 [<img src="https://docs.python.org/3/_static/py.svg" width="25" height="25">](https://www.python.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width="25" height="30">](https://www.w3schools.com/html/default.asp)
@@ -28,7 +28,7 @@ I'm currently pursuing Masters in Computer Applications from **NIT, Trichy**.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-### My GitHub Stats
+## My GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Kushwaha1&theme=highcontrast&hide_border=true" alt="Sachin-Kushwaha1's GitHub Stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Kushwaha1&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Sachin-Kushwaha1's GitHub Stats" />
 
