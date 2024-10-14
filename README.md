@@ -1,7 +1,7 @@
 # Welcome Geeks  <br/> Hi 👋, I'm Sachin Kushwaha  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-kushwaha1&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-kushwaha1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin-kushwaha1" alt="sachin-kushwaha1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin-kushwaha1&theme=onestar" alt="sachin-kushwaha1" /></a> </p>
 
 I'm currently pursuing Masters in Computer Applications from **NIT, Trichy**.
 - 🔭 I’m currently working on Game Theoritic Defence Against Intellectual Property Theft.
