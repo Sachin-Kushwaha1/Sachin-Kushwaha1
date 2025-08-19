@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-kushwaha1&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-kushwaha1" /> </p>
 
 
-I'm currently pursuing Masters in Computer Applications from **NIT, Trichy**.
+I'm Recently Completed Masters of Computer Applications from **NIT, Trichy**.
 
 ## Can Connect on
 <p align="left">
