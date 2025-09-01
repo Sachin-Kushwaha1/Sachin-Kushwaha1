@@ -1,31 +1,30 @@
-# Welcome Geeks  <br/> Hi 👋, I'm Sachin Kumar 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-kushwaha1&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-kushwaha1" /> </p>
+# Welcome Geeks  <br>Hi, I'm Sachin Kumar 👋
+
+MCA @ NIT Trichy • Full‑stack developer • DSA/Competitive Programming enthusiast
+
+![Profile views](https://komarev.com/ghpvc/?username=Sachin-Kushwaha1&label=Profile%20views&color=0e75b6&style=flat)
+
+## About me
+- I recently completed my Master of Computer Applications (MCA) from NIT Trichy.
+- I enjoy building full‑stack apps and solving algorithmic problems.
+- Interests: backend systems, data engineering, and ML tooling.
+- Open to collaborations and opportunities.
+- Reach me: hire.sachin.kumar@gmail.com or via LinkedIn below.
 
 
-I've Recently Completed Masters of Computer Applications from **NIT, Trichy**.
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin%20Kumar-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-kushwaha1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sachin__kushwaha-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/sachin_kushwaha)
+[![Codeforces](https://img.shields.io/badge/Codeforces-sachin__kushwaha-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/sachin_kushwaha)
+[![CodeChef](https://img.shields.io/badge/CodeChef-sachin__kushwah-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/sachin_kushwah)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-2F8D46?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG_HANDLE/profile)
 
-## Can Connect on
-<p align="left">
-<a href="https://linkedin.com/in/sachin-kushwaha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-kushwaha1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sachin_kushwah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sachin_kushwah" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sachin_kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sachin_kushwaha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sachin_kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin_kushwaha" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<405notfound>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<405notfound>/profile" height="30" width="40" /></a>
+
+## Languages and Tools
+<!-- Use a single provider for consistent icon styling -->
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mysql,pandas,sklearn,git,linux&perline=8" alt="Tech stack icons" />
 </p>
-
-
-## Language and Tools
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="25" height="25">](https://cplusplus.com/)
-[<img src="https://docs.python.org/3/_static/py.svg" width="25" height="25">](https://www.python.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width="25" height="30">](https://www.w3schools.com/html/default.asp)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width="25" height="30">](https://www.w3schools.com/css/default.asp)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25" height="25">](https://www.w3schools.com/js/default.asp)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 ## My GitHub Stats
 
